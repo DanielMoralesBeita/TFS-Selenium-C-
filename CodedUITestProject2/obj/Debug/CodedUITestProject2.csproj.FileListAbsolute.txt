@@ -1,0 +1,10 @@
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\CodedUITestProject2\bin\Debug\CodedUITestProject2.pdb
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\CodedUITestProject2\obj\Debug\CodedUITestProject2.pdb

@@ -1,0 +1,5 @@
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\CodedUITestProject2\bin\Release\CodedUITestProject2.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\CodedUITestProject2\bin\Release\CodedUITestProject2.pdb
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\CodedUITestProject2\obj\Release\CodedUITestProject2.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\CodedUITestProject2\obj\Release\CodedUITestProject2.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\CodedUITestProject2\obj\Release\CodedUITestProject2.pdb

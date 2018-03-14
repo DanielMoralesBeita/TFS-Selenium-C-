@@ -1,0 +1,9 @@
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\WebTest1.webtest
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.dll
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\WebAndLoadTestProject1.pdb
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.dll
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\obj\Debug\WebAndLoadTestProject1.pdb
+E:\Users\dmorales\Documents\Visual Studio 2015\Projects\CodedUITestProject2\WebAndLoadTestProject1\bin\Debug\LoadTest1.loadtest

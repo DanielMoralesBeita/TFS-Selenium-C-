@@ -1,0 +1,9 @@
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\WebTest1.webtest
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\LoadTest1.loadtest
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\WebAndLoadTestProject1.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\WebAndLoadTestProject1.pdb
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\bin\Release\Microsoft.VisualStudio.QualityTools.WebTestFramework.xml
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\obj\Release\WebAndLoadTestProject1.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\obj\Release\WebAndLoadTestProject1.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\1\s\CodedUITestProject2\WebAndLoadTestProject1\obj\Release\WebAndLoadTestProject1.pdb

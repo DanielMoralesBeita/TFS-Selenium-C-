@@ -1,0 +1,890 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest1" Id="ce52c5be-b2c3-472c-bc59-73318cd1e4ec" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest1.431e97ef-e462-47e9-bb9e-b12b739a5571.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="9dec319a-4dca-4cc5-9804-b6175a2cb88e" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://api.bing.com/qsml.aspx?query=n&amp;maxwidth=32765&amp;rowheight=20&amp;sectionHeight=160&amp;FORM=IESS4A&amp;market=en-US" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="n" RecordedValue="n" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS4A" RecordedValue="IESS4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8acd258a-96f0-4e5d-aaee-4794aa9b59d2" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://api.bing.com/qsml.aspx?query=nU&amp;maxwidth=32765&amp;rowheight=20&amp;sectionHeight=160&amp;FORM=IESS4A&amp;market=en-US" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="nU" RecordedValue="nU" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS4A" RecordedValue="IESS4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="dc2ec9e6-ea20-4150-b287-d6b77d24352f" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://api.bing.com/qsml.aspx?query=nUE&amp;maxwidth=32765&amp;rowheight=20&amp;sectionHeight=160&amp;FORM=IESS4A&amp;market=en-US" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="nUE" RecordedValue="nUE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS4A" RecordedValue="IESS4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="aec587e1-4d14-42fa-afdf-5b28e889d762" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://api.bing.com/qsml.aspx?query=nUEV&amp;maxwidth=32765&amp;rowheight=20&amp;sectionHeight=160&amp;FORM=IESS4A&amp;market=en-US" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="nUEV" RecordedValue="nUEV" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS4A" RecordedValue="IESS4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8a1dda18-72b3-486d-aa04-acde239e0ffc" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://api.bing.com/qsml.aspx?query=nUEVO&amp;maxwidth=32765&amp;rowheight=20&amp;sectionHeight=160&amp;FORM=IESS4A&amp;market=en-US" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="32765" RecordedValue="32765" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="20" RecordedValue="20" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="160" RecordedValue="160" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS4A" RecordedValue="IESS4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="ce961aba-3dc1-4183-9f4a-c378dcb2ca2c" Version="1.1" Url="http://www.bing.com/search" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://www.bing.com/search?q=nUEVO&amp;src=IE-SearchBox&amp;FORM=IESR4A" ReportingName="" IgnoreHttpStatusCode="False">
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam23.IG" DisplayName="Extract Text" Description="Extract text from the response and place it into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;IG=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam34.ct" DisplayName="Extract Text" Description="Extract text from the response and place it into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026ct=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam37.wreply" DisplayName="Extract Text" Description="Extract text from the response and place it into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026wreply=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam24.Type" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;Type=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="3" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam31.update" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?update=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam32.wa" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?wa=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam33.rpsnv" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026rpsnv=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam35.rver" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026rver=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam36.wp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026wp=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam38.lc" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026lc=" />
+            <RuleParameter Name="EndsWith" Value="\" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam39.id" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="\u0026id=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam40.checkda" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;checkda=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="q" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="src" Value="IE-SearchBox" RecordedValue="IE-SearchBox" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESR4A" RecordedValue="IESR4A" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="4cc9eac6-8a9c-47d1-8c55-8c918e004ab6" Version="1.1" Url="https://www.bing.com/fd/ls/l" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="IG" Value="{{QueryStringParam23.IG}}" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam23.IG}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Type" Value="Event.CPT" RecordedValue="Event.CPT" CorrelationBinding="{{QueryStringParam24.Type}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="DATA" Value="{%22pp%22:{%22S%22:%22L%22,%22FC%22:108,%22BC%22:168,%22SE%22:-1,%22TC%22:-1,%22H%22:200,%22BP%22:397,%22CT%22:404,%22IL%22:2},%22ad%22:[-1,-1,1161,782,1161,1444,68]}" RecordedValue="{%22pp%22:{%22S%22:%22L%22,%22FC%22:108,%22BC%22:168,%22SE%22:-1,%22TC%22:-1,%22H%22:200,%22BP%22:397,%22CT%22:404,%22IL%22:2},%22ad%22:[-1,-1,1161,782,1161,1444,68]}" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="P" Value="SERP" RecordedValue="SERP" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="DA" Value="HK2" RecordedValue="HK2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="bae8e673-5049-4598-b071-6306daa730bd" Version="1.1" Url="https://www.bing.com/fd/ls/lsp.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <StringHttpBody ContentType="text/xml" InsertByteOrderMark="False">PABDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA8AEUAdgBlAG4AdABzAD4APABFAD4APABUAD4ARQB2AGUAbgB0AC4AQwBsAGkAZQBuAHQASQBuAHMAdAA8AC8AVAA+ADwASQBHAD4ARABDADcAQgBFADkARgBCADAARgBCAEUANABFADMAOQBBADMARAAyADMAQwA3ADUARQBBADUARgBEAEEAQwBDADwALwBJAEcAPgA8AFQAUwA+ADEANQAxADkAOAAyADcAOQA1ADQAOAA3ADUAPAAvAFQAUwA+ADwARAA+ADwAIQBbAEMARABBAFQAQQBbAHsAaQBkADoAMQAyADMAMAAsAFAAOgAiADcAOgBlAGUALAA1ADoAZQBlACwAMQA1ADoAcQBpACwAMQA0ADoAbgB2ACwAMQAzADoAbgB2ACwAMQAyADoAbgB2ACwAMQAxADoAZQBnACwANAA6AGUAZQAsADMAOgBlAGUALAAyADoAZQBlACwAMQA3ADoAdABhACwAMQA2ADoAdAA5ACwAMgA0ADoAagB0ACwAOAA6AGUAZgAsADEAMAA6AG4AMgAsADkAOgBlAGcAIgAsAFMAOgAiAG4AYQB2ADoAMAAiACwAdgA6ADEALgAxACwAVAA6ACIAQwBJAC4AUABlAHIAZgAiACwARgBJAEQAOgAiAEMASQAiACwATgBhAG0AZQA6ACIAUABlAHIAZgBWADIAIgB9AF0AXQA+ADwALwBEAD4APAAvAEUAPgA8AC8ARQB2AGUAbgB0AHMAPgA8AFMAVABTAD4AMQA1ADEAOQA4ADIANwA5ADUANAA4ADcANQA8AC8AUwBUAFMAPgA8AC8AQwBsAGkAZQBuAHQASQBuAHMAdABSAGUAcQB1AGUAcwB0AD4A</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="96fba4d7-4fac-4477-8a5f-c52fe83ece6b" Version="1.1" Url="https://www.bing.com/work/api/v2/user/discover" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="update" Value="true" RecordedValue="true" CorrelationBinding="{{QueryStringParam31.update}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="32472271-ec91-455c-8552-2d767b330c5e" Version="1.1" Url="https://login.live.com/login.srf" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam17.popup" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?popup=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam18.ssl" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;ssl=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam19.wa" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;wa=" />
+            <RuleParameter Name="EndsWith" Value="&quot;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractFormField, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam1.NAPExp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="Name" Value="NAPExp" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+            <RuleParameter Name="Index" Value="0" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractFormField, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam2.NAP" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="Name" Value="NAP" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+            <RuleParameter Name="Index" Value="0" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractFormField, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam3.ANON" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="Name" Value="ANON" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+            <RuleParameter Name="Index" Value="0" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractFormField, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam4.ANONExp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="Name" Value="ANONExp" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+            <RuleParameter Name="Index" Value="0" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractFormField, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="FormPostParam5.t" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="Name" Value="t" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+            <RuleParameter Name="Index" Value="0" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="wa" Value="wsignin1.0" RecordedValue="wsignin1.0" CorrelationBinding="{{QueryStringParam32.wa}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rpsnv" Value="11" RecordedValue="11" CorrelationBinding="{{QueryStringParam33.rpsnv}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ct" Value="{{QueryStringParam34.ct}}" RecordedValue="1519828062" CorrelationBinding="{{QueryStringParam34.ct}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rver" Value="6.0.5286.0" RecordedValue="6.0.5286.0" CorrelationBinding="{{QueryStringParam35.rver}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="wp" Value="MBI" RecordedValue="MBI" CorrelationBinding="{{QueryStringParam36.wp}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="wreply" Value="{{QueryStringParam37.wreply}}" RecordedValue="https:%2F%2fwww.bing.com%2Fsecure%2FPassport.aspx%3Fpopup%3D1%26ssl%3D1" CorrelationBinding="{{QueryStringParam37.wreply}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="lc" Value="4096" RecordedValue="4096" CorrelationBinding="{{QueryStringParam38.lc}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="id" Value="264960" RecordedValue="264960" CorrelationBinding="{{QueryStringParam39.id}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="checkda" Value="1" RecordedValue="1" CorrelationBinding="{{QueryStringParam40.checkda}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="390ee003-6c12-45d1-91d9-240ecaf62a6a" Version="1.1" Url="https://www.bing.com/secure/Passport.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=11&amp;ct=1519828062&amp;rver=6.0.5286.0&amp;wp=MBI&amp;wreply=https:%2F%2fwww.bing.com%2Fsecure%2FPassport.aspx%3Fpopup%3D1%26ssl%3D1&amp;lc=4096&amp;id=264960&amp;checkda=1" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="popup" Value="1" RecordedValue="1" CorrelationBinding="{{QueryStringParam17.popup}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ssl" Value="1" RecordedValue="1" CorrelationBinding="{{QueryStringParam18.ssl}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="wa" Value="wsignin1.0" RecordedValue="wsignin1.0" CorrelationBinding="{{QueryStringParam19.wa}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <FormPostHttpBody>
+        <FormPostParameter Name="NAPExp" Value="Fri, 08-Jun-2018 21:27:44 GMT" RecordedValue="Fri, 08-Jun-2018 21:27:44 GMT" CorrelationBinding="{{FormPostParam1.NAPExp}}" UrlEncode="True" />
+        <FormPostParameter Name="NAP" Value="V%3D1.9%26E%3D148e%26C%3DZiVtgI3OT-kJgcxHBDwRRy0o-NQGRqjL6CqLQijPHRbLKopsb80q6w%26W%3D2" RecordedValue="V%3D1.9%26E%3D148e%26C%3DZiVtgI3OT-kJgcxHBDwRRy0o-NQGRqjL6CqLQijPHRbLKopsb80q6w%26W%3D2" CorrelationBinding="{{FormPostParam2.NAP}}" UrlEncode="True" />
+        <FormPostParameter Name="ANON" Value="A%3D03E90F525E8D02BE1DC663A1FFFFFFFF%26E%3D14e8%26W%3D2" RecordedValue="A%3D03E90F525E8D02BE1DC663A1FFFFFFFF%26E%3D14e8%26W%3D2" CorrelationBinding="{{FormPostParam3.ANON}}" UrlEncode="True" />
+        <FormPostParameter Name="ANONExp" Value="Sun, 16-Sep-2018 21:27:44 GMT" RecordedValue="Sun, 16-Sep-2018 21:27:44 GMT" CorrelationBinding="{{FormPostParam4.ANONExp}}" UrlEncode="True" />
+        <FormPostParameter Name="t" Value="EgAqAgMAAAAEgAAADAABIi+eg+zRxA/DkX69VttiC1IIXhe5z5tWUHyHw8Jp5B5O3YDQlWyXfOH7u6WJDi+z9421IcNsIV6T2rdtb55gik8xe6RNNHP8qtCQP3HOtzHBXdwoRNoOn+xuzXudUsj/gMELCLb6d+OpzRVMleyhqByF5vQJcFo3YwYthGVa6mriWJeQ0G9K9T1c/QWRNICdc4FZo946gCKgqbu10OBKwE4qwTzVNacxf21LVGVaXoKlE+kAMoMy0gljIQ7KTvXXmIkc3RMlAQW5nrlXEOIHXizyvb/a8wBOhhoMiiAQtKAqyzOlv1Val8zF1iExYKVj6DKtYjkuqPv/ImMB5fEj2hkBeAAZAQAAAwCppzb/XryWWjm4lloACwQAABMAABAUAGRtb3JhbGVzQGNybm92YS5jb20AYQAAIGRtb3JhbGVzJWNybm92YS5jb21AcGFzc3BvcnQuY29tAAAABENSAAAAAAAABAkAAAAAAFVAIAZBAAZEYW5pZWwADU1vcmFsZXMgQmVpdGEAAAAAAAAAAAAAAAAAAAAAAADAjrRXkI0EsgAAXryWWt4sl1oAAAAAAAAAAAAAAAAPADE5MC4yNDEuMTgzLjE4AAUBAAAAAUAYAMRr+5YAAQQAAAAAAAAAAAAAAAAAAAAryd09fAX4Av+/GABV8meR/78YAFPyZ5EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" RecordedValue="EgAqAgMAAAAEgAAADAABIi+eg+zRxA/DkX69VttiC1IIXhe5z5tWUHyHw8Jp5B5O3YDQlWyXfOH7u6WJDi+z9421IcNsIV6T2rdtb55gik8xe6RNNHP8qtCQP3HOtzHBXdwoRNoOn+xuzXudUsj/gMELCLb6d+OpzRVMleyhqByF5vQJcFo3YwYthGVa6mriWJeQ0G9K9T1c/QWRNICdc4FZo946gCKgqbu10OBKwE4qwTzVNacxf21LVGVaXoKlE+kAMoMy0gljIQ7KTvXXmIkc3RMlAQW5nrlXEOIHXizyvb/a8wBOhhoMiiAQtKAqyzOlv1Val8zF1iExYKVj6DKtYjkuqPv/ImMB5fEj2hkBeAAZAQAAAwCppzb/XryWWjm4lloACwQAABMAABAUAGRtb3JhbGVzQGNybm92YS5jb20AYQAAIGRtb3JhbGVzJWNybm92YS5jb21AcGFzc3BvcnQuY29tAAAABENSAAAAAAAABAkAAAAAAFVAIAZBAAZEYW5pZWwADU1vcmFsZXMgQmVpdGEAAAAAAAAAAAAAAAAAAAAAAADAjrRXkI0EsgAAXryWWt4sl1oAAAAAAAAAAAAAAAAPADE5MC4yNDEuMTgzLjE4AAUBAAAAAUAYAMRr+5YAAQQAAAAAAAAAAAAAAAAAAAAryd09fAX4Av+/GABV8meR/78YAFPyZ5EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" CorrelationBinding="{{FormPostParam5.t}}" UrlEncode="True" />
+      </FormPostHttpBody>
+    </Request>
+    <Request Method="POST" Guid="521180c7-615d-4b13-856f-15a32a8a848f" Version="1.1" Url="https://www.bing.com/fd/ls/lsp.aspx" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <StringHttpBody ContentType="text/xml" InsertByteOrderMark="False">PABDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA8AEUAdgBlAG4AdABzAD4APABFAD4APABUAD4ARQB2AGUAbgB0AC4AQwBsAGkAZQBuAHQASQBuAHMAdAA8AC8AVAA+ADwASQBHAD4ARABDADcAQgBFADkARgBCADAARgBCAEUANABFADMAOQBBADMARAAyADMAQwA3ADUARQBBADUARgBEAEEAQwBDADwALwBJAEcAPgA8AFQAUwA+ADEANQAxADkAOAAyADcAOQA1ADcAMQAwADEAPAAvAFQAUwA+ADwARAA+ADwAIQBbAEMARABBAFQAQQBbAFsAewAiAFQAIgA6ACIAQwBJAC4AQgBvAHgATQBvAGQAZQBsACIALAAiAEYASQBEACIAOgAiAEMASQAiACwAIgBOAGEAbQBlACIAOgAiAHYAMgAuADgAIgAsACIAUwBWACIAOgAiADQAIgAsACIAUAAiADoAewAiAEMAIgA6ADkANAAsACIATgAiADoAMQAsACIASQAiADoAIgAyAGsAaAAiACwAIgBTACIAOgAiAFQAKwBDACsAQgBEACIALAAiAE0AIgA6ACIAVgArAEwAKwBNACsATQBUACsARQArAE4AKwBDACsASwArAEIARAAiACwAIgBUACIAOgAzADQANgA3ACwAIgBLACIAOgAiAFMAUABBAE4ALgBmAHQAcgBCACsATABJAC4AYgBfAGEAbABnAG8AKwBMAEkALgBiAF8AYQBuAHMAKwAxADQANAArAFMARQBSAFAALAA1ADAAMgAxAC4AMQArADIAbQB4ACsAdwB3AHcALgBiAGkAbgBnAC4AYwBvAG0AKwBpAG0AZwArAGgAdAB0AHAAcwArADEAMAB0ACsAMQAwAGsAKwAxADgAdwArADEAYQA1ACsAMQBhAHIAKwAxAGEAeAArADEAYgA4ACsAMQBiAHAAKwAxAGMAaAArADEAZABrACsAMQBlADAAKwAxAGUAbAArADEAZgBhACsARgByAGEAbQBlAHcAbwByAGsAKwBzAGMAcgBpAHAAdAArADEAZgBoACsASQBkAGUAbgB0AGkAdAB5ACUAMgA1ADIAMABCAGwAdQBlACUAMgA0AEIAbAB1AGUASQBkAGUAbgB0AGkAdAB5AEQAcgBvAHAAZABvAHcAbgBCAG8AbwB0AFMAdAByAGEAcABfAFIAZQBkAGkAcgBlAGMAdAArADEAZwB1ACsASQBkAGUAbgB0AGkAdAB5ACUAMgA1ADIAMABCAGwAdQBlACUAMgA0AEIAbAB1AGUASQBkAGUAbgB0AGkAdAB5AEgAZQBhAGQAZQByACsAMQBnAHgAKwBJAGQAZQBuAHQAaQB0AHkAJQAyADUAMgAwAFMAbgByAFcAaQBuAGQAbwB3AHMATABpAHYAZQBDAG8AbgBuAGUAYwB0AEIAbwBvAHQAcwB0AHIAYQBwACsAMQBoADIAKwBMAGEAbgBnAHUAYQBnAGUAUwB3AGkAdABjAGgAKwAxAGgANgArAFMAZQBnAG0AZQBuAHQARgBpAGwAdABlAHIAcwAlADIANQAyADAAQgBsAHUAZQAlADIANABHAGUAbgBlAHIAaQBjAEQAcgBvAHAARABvAHcAbgBNAG8AZABlAHIAbgBDAGEAbABlAG4AZABhAHIAKwAxAGoAOAArAEIAaQBuAGcAQQB0AFcAbwByAGsAJQAyADUAMgAwAFUAcwBlAHIARABpAHMAYwBvAHYAZQByAHkAKwAxAGwAMgArAHgAbQBsAGgAdAB0AHAAcgBlAHEAdQBlAHMAdAArADEAbgA1ACsAVwBlAGIAUgBlAHMAdQBsAHQAJQAyADUAMgAwAEIAbAB1AGUAJQAyADQAVwBlAGIAUgBlAHMAdQBsAHQAVABvAG8AbABiAG8AeABCAGwAdQBlACsAMQBsAGUAKwBWAGkAcwB1AGEAbABTAHkAcwB0AGUAbQAlADIANQAyADAARgBvAG8AdABlAHIAJQAyADQASQBQAHYANgBUAGUAcwB0AFMAYwByAGkAcAB0ACsAMQBtAG0AKwBXAGUAYgAlADIANQAyADAAUwBlAHIAcABLAGUAeQBiAG8AYQByAGQATgBhAHYAaQBnAGEAdABpAG8AbgBfAFMAZQBsAGUAYwB0AG8AcgBIAGUAYQBkAGUAcgBQAGwAdQBzAEEAbABnAG8AKwAxAG0AdwArAFcAZQBiACUAMgA1ADIAMABTAGUAcgBwAEsAZQB5AGIAbwBhAHIAZABOAGEAdgBpAGcAYQB0AGkAbwBuACsAMQBtAHoAKwAxAHYAMwArAHAAbwBpAG4AdABlAHIAbQBvAHYAZQAiACwAIgBGACIAOgAwAH0ALAAiAFYAIgA6ACIAbAA4AC8AMAAvADAALwB3AHEALwBsAHEALwB3ADkALwAzAGIALwAxAC8AZAAvAHYAaQBzAGkAYgBsAGUALwBkAGUAZgBhAHUAbAB0ACsAbgBwAC8ALwAvAC8ALwAvAEAAMwAvAC8ALwAvACIALAAiAEwAIgA6ACIAbAA5AC8AMAAvAE4AQQBWAC4AYgBfAHMAYwBvAHAAZQBiAGEAcgAvAFMARQBSAFAALAA1ADAAMQA2AC4AMQAvADIAcwAvADIANwAvAHQAaAAvADEAMwAvADIALwBUAC8ALQAxACsAbAA5AC8AMQAvAEgAMQAuAGIAXwBsAG8AZwBvAC8ALwAxAG0ALwBnAC8AcwAvADEAMAAvADQALwBUAC8ALQAxACsAbAA5AC8AMgAvAEQASQBWAC4AYgBfAHMAZQBhAHIAYwBoAGIAbwB4AEYAbwByAG0ALwAvADIAcwAvAGUALwBmAGsALwAxADQALwAzAC8AVAAvAC0AMQArAGwAOQAvADMALwBEAEkAVgAjAGkAZABfAGgALwBAADQALwAwAC8AMAAvADAALwAwAC8AMgAvAFQALwAyACsAbgBzAC8ANAAvAFMAUABBAE4ALgBzAGIAXwBjAG8AdQBuAHQALwAvADMAYwAvADMAbwAvADMAawAvAHUALwAzAC8AVAAvAC0AMQArAG4AcwAvADUALwBAADAALwBTAEUAUgBQACwANQAyADUAMAAuADEALwA2AHcALwAzAG8ALwAyAHEALwB1AC8AMwAvAFQALwAtADEAKwBuAHMALwA2AC8AQAAwAC8AUwBFAFIAUAAsADUAMgA1ADgALgAxAC8AOQBuAC8AMwBvAC8AMwBpAC8AdQAvADMALwBUAC8ALQAxACsAbgBzAC8ANwAvAEAAMAAvAFMARQBSAFAALAA1ADIANgAyAC4AMQAvAGQANQAvADMAbwAvADIAZQAvAHUALwAzAC8AVAAvAC0AMQArAG4AcwAvADgALwBAADEALwBTAEUAUgBQACwANQAwADkAOAAuADEALwAyAHMALwA0AGkALwBmAGsALwAyAHIALwAzAC8AVAAvAC0AMQArAG4AcwAvADkALwBAADEALwBTAEUAUgBQACwANQAxADEAMAAuADEALwAyAHMALwA3AGIALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAG4AcwAvAGEALwBAADEALwBTAEUAUgBQACwANQAxADIAMQAuADEALwAyAHMALwA5AGwALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGIALwBAADEALwBTAEUAUgBQACwANQAxADMAMwAuADEALwAyAHMALwBjAGMALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAG4AcwAvAGMALwBAADEALwBTAEUAUgBQACwANQAxADQANgAuADEALwAyAHMALwBlAG0ALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGQALwBAADEALwBTAEUAUgBQACwANQAxADUAOQAuADEALwAyAHMALwBoAGQALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGUALwBAADEALwBTAEUAUgBQACwANQAxADcAMQAuADEALwAyAHMALwBrADQALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGYALwBAADEALwBTAEUAUgBQACwANQAxADgAMwAuADEALwAyAHMALwBtAHYALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGcALwBAADEALwBTAEUAUgBQACwANQAxADkANgAuADEALwAyAHMALwBwAG0ALwBmAGsALwAzADYALwAzAC8AVAAvAC0AMQArAG4AcwAvAGgALwBAADEALwBTAEUAUgBQACwANQAyADAAOAAuADEALwAyAHMALwBzAHUALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAG4AcwAvAGkALwBAADIALwBTAEUAUgBQACwANQAyADkAMgAuADEALwAyAHMALwB2AGwALwBmAGsALwA1ADUALwAzAC8AVAAvAC0AMQArAG4AcwAvAGoALwBMAEkALgBiAF8AcABhAGcALwBTAEUAUgBQACwANQAzADEAMgAuADEALwAyAHMALwAxADAAcwAvAGYAawAvADIAcQAvADMALwBUAC8ALQAxACsAbgBzAC8AawAvAEAAMgAvAFMARQBSAFAALAA1ADMAMAAyAC4AMQAvAGoAZwAvADQAaQAvAGEAbwAvADUAbAAvADMALwBUAC8ALQAxACsAbgBzAC8AbAAvAEYATwBPAFQARQBSACMAYgBfAGYAbwBvAHQAZQByAC8AUwBFAFIAUAAsADUAMAAzADUALgAxAC8AMAAvAEAAMwAvAHcAOQAvADEAYwAvADEALwBUAC8ALQAxACsAbAA5AC8AbQAvAEkATQBHAC8ALwAxAG0ALwBnAC8AagBiAC8AMQBxAC8ANQAvAFQALwAtADEAKwBsADkALwBuAC8ASQBNAEcAIwBpAGQAXwBwAC8AQAA0AC8AMAAvADAALwAwAC8AMAAvADQALwBUAC8AMgArAEAANQAvADMALwAvAC8AcgAwAC8AYQAvADQANQAvADEAZQAvAC8AUgAvACsAQAA1AC8AbgAvAC8ALwBzAGgALwBqAC8AdwAvAHcALwAvAFIALwAiACwAIgBOACIAOgAiAC0AMQAvADAALwAvAC8AZABvAGMAdQBtAGUAbgB0AC8ALwB0AGEALwAvAGUAZQAvAC0AMQAvAGUAZQAvAGUAZgAvAGUAZwAvAG4AMgArAGoAbwAvADEALwBtAC8AQAA2AC8AcwBpAG0AZwAlADIARgBTAGgAYQByAGUAZABTAHAAcgBpAHQAZQBEAGUAcwBrAHQAbwBwAFQAdwBvAFQAbwBuAGUATABvAGcAbwBUAGUAYQBsAFMAcAB5AF8AMAA4ADEANwAuAHAAbgBnAC8AQAA3AC8AegAvAEAAOAAvAGsAawAvAC0AMQAvAGsAawAvAGsAawAvAGsAawAvAGsAbgArAHkAaQAvADIALwAvAEAANgAvAGMAcAB0AC8AQAA3AC8AMgA5AC8AQAA4AC8AeQBrAC8ALQAxAC8AeQBrAC8AeQBrAC8ALQAxAC8AMQAwAHIAKwB5AHkALwAzAC8ALwBAADYALwBsAHMAJQAyAEYAbABzAHAALgBhAHMAcAB4AC8AQAAxADEALwBvADUALwBAADgALwBAADkALwAtADEALwBAADkALwAxADEAOQAvADEAbgAzAC8AMQBuADQAKwB6ADEALwA0AC8ALwBAADYALwBCAGkAbgBnAEMAbwByAGUALgBCAHUAbgBkAGwAZQAvAEAAbgAvADEAagAvAEAAOAAvAEAAYQAvAC0AMQAvAEAAYQAvAEAAYQAvAEAAYQAvADEAMABsACsAMQA3AGsALwA1AC8ALwBAADYALwBAAG0ALwBAADcALwAyAGUALwBAADgALwBAAGIALwAtADEALwBAAGIALwBAAGIALwBAAGIALwAxADkAegArADEAYQAwAC8ANgAvAC8AQAA2AC8AQABwAC8AQAA3AC8ANQAvAEAAOAAvAEAAYwAvAC0AMQAvAEAAYwAvAEAAYwAvAEAAYwAvAEAAYwArADEAYQA3AC8ANwAvAC8AQAA2AC8AQAByAC8AQAA3AC8AawAvAEAAOAAvAEAAZAAvAC0AMQAvAEAAZAAvAEAAZAAvAEAAZAAvADEAYQBzACsAMQBhAHQALwA4AC8ALwBAADYALwBAAHQALwBAADcALwA0AC8AQAA4AC8AQABlAC8ALQAxAC8AQABlAC8AQABlAC8AQABlAC8AMQBhAHkAKwAxAGEAegAvADkALwAvAEAANgAvAEAAdgAvAEAANwAvADkALwBAADgALwBAAGYALwAtADEALwBAAGYALwBAAGYALwBAAGYALwBAAGYAKwAxAGIAOQAvAGEALwAvAEAANgAvAEAAeAAvAEAANwAvAGcALwBAADgALwBAAGcALwAtADEALwBAAGcALwBAAGcALwBAAGcALwAxAGIAcQArADEAYgByAC8AYgAvAC8AQAA2AC8AQAB6AC8AQAA3AC8AcQAvAEAAOAAvAEAAaAAvAC0AMQAvAEAAaAAvAEAAaAAvAEAAaAAvADEAYwBpACsAMQBjAGoALwBjAC8ALwBAADYALwBAADEAMwAvAEAANwAvADEAMQAvAEAAOAAvAEAAaQAvAC0AMQAvAEAAaQAvAEAAaQAvAEAAaQAvADEAZABsACsAMQBkAG0ALwBkAC8ALwBAADYALwBAADEANQAvAEAANwAvAGUALwBAADgALwBAAGoALwAtADEALwBAAGoALwBAAGoALwBAAGoALwAxAGUAMQArADEAZQAyAC8AZQAvAC8AQAA2AC8AQAAxADcALwBAADcALwBqAC8AQAA4AC8AQABrAC8ALQAxAC8AQABrAC8AQABrAC8AQABrAC8AMQBlAG0AKwAxAGUAbwAvAGYALwAvAEAANgAvAEAAMQA5AC8AQAA3AC8AbgAvAEAAOAAvAEAAbAAvAC0AMQAvAEAAbAAvAEAAbAAvAEAAbAAvADEAZgBiACsAMQBmAGQALwBnAC8ALwBAADYALwBAAG0ALwBAAG4ALwA1AC8AQAA4AC8AQABvAC8ALQAxAC8AQABvAC8AQABvAC8AQABvAC8AMQBmAGkAKwAxAGcAcgAvAGgALwAvAEAANgAvAEAAcAAvAEAAbgAvADIALwBAADgALwBAAHEALwAtADEALwBAAHEALwBAAHEALwBAAHEALwBAAHEAKwAxAGcAdgAvAGkALwAvAEAANgAvAEAAcgAvAEAAbgAvADIALwBAADgALwBAAHMALwAtADEALwBAAHMALwBAAHMALwBAAHMALwAxAGcAeQArADEAaAAwAC8AagAvAC8AQAA2AC8AQAB0AC8AQABuAC8AMgAvAEAAOAAvAEAAdQAvAC0AMQAvAEAAdQAvAEAAdQAvAEAAdQAvAEAAdQArADEAaAAzAC8AawAvAC8AQAA2AC8AQAB2AC8AQABuAC8AMgAvAEAAOAAvAEAAdwAvAC0AMQAvAEAAdwAvAEAAdwAvAEAAdwAvAEAAdwArADEAagA1AC8AbAAvAC8AQAA2AC8AQAB4AC8AQABuAC8AMwAvAEAAOAAvAEAAeQAvAC0AMQAvAEAAeQAvAEAAeQAvAEAAeQAvAEAAeQArADEAawB6AC8AbQAvAC8AQAA2AC8AQAB6AC8AQABuAC8AMwAvAEAAOAAvAEAAMQAwAC8ALQAxAC8AQAAxADAALwBAADEAMAAvAEAAMQAwAC8AMQBsADMAKwAxAGwANgAvAG4ALwAvAEAANgAvAHUAcwBlAHIAJQAyAEYAZABpAHMAYwBvAHYAZQByAC8AQAAxADEALwAzAGQALwBAADgALwBAADEAMgAvAC0AMQAvAEAAMQAyAC8AQAAxADIALwAxAG8AaQAvADEAbwBrACsAMQBsADgALwBvAC8ALwBAADYALwBAADEAMwAvAEAAbgAvADYALwBAADgALwBAADEANAAvAC0AMQAvAEAAMQA0AC8AQAAxADQALwBAADEANAAvADEAbABmACsAMQBtAGoALwBwAC8ALwBAADYALwBAADEANQAvAEAAbgAvADMALwBAADgALwBAADEANgAvAC0AMQAvAEAAMQA2AC8AQAAxADYALwBAADEANgAvAEAAMQA2ACsAMQBtAHUALwBxAC8ALwBAADYALwBAADEANwAvAEAAbgAvADIALwBAADgALwBAADEAOAAvAC0AMQAvAEAAMQA4AC8AQAAxADgALwBAADEAOAAvAEAAMQA4ACsAMQBtAHkALwByAC8ALwBAADYALwBAADEAOQAvAEAAbgAvADEALwBAADgALwBAADEAYQAvAC0AMQAvAEAAMQBhAC8AQAAxAGEALwBAADEAYQAvADEAbgAwACsAMQBxAGMALwBzAC8ALwBsAG8AZwBpAG4ALgBsAGkAdgBlAC4AYwBvAG0ALwBsAG8AZwBpAG4ALgBzAHIAZgAvAHMAdQBiAGQAbwBjAHUAbQBlAG4AdAAvAGQAcQAvAEAAOAAvAC0AMQAvAC0AMQAvAC0AMQAvAC0AMQAvAC0AMQAvADIANAAyACsAMgBlAG8ALwB0AC8ALwBzAHQAbwByAGEAZwBlAC4AbABpAHYAZQAuAGMAbwBtAC8AcAByAG8AZgBpAGwAZQBwAGgAbwB0AG8AJQAzAEEAVQBzAGUAcgBUAGkAbABlAFMAdABhAHQAaQBjACUAMgBGAHAALwBAADcALwAwAC8AQAA4AC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxACIALAAiAEMAIgA6ACIAQAAxAGIALwAvAEAAMQBjAC8AbQBvAHUAcwBlAC8ALQAxAC8AMAAvADMANAAvADAAKwAxAHYAagAvAC8ALwAvAC8AZgAvADMAMAAvACsAMQB2AHIALwAvAC8ALwAvAHEALwAyAHoALwArADEAdgB6AC8ALwAvAC8ALwAxADAALwAyAHgALwArADEAdwA3AC8ALwAvAC8ALwAxAGoALwAyAHYALwArADEAdwBmAC8ALwAvAC8ALwAyADYALwAyAHMALwArADEAdwBuAC8AMAAvAC8ALwAvADIAdQAvADIAbwAvACsAMQB3AHcALwAvAC8ALwAvADMAYwAvADIAbAAvACsAMQB4ADMALwAvAC8ALwAvADMAeQAvADIAawAvACsAMQB4AGMALwAvAC8ALwAvADQAawAvADIAZgAvACsAMQB4AGwALwAvAC8ALwAvADQAeAAvADIAZQAvACsAMQB4AHYALwAvAC8ALwAvADUAYQAvADIAZAAvACsAMQB5ADEALwAvAC8ALwAvADUAbwAvADIAYQAvACsAMQB5ADgALwAvAC8ALwAvADUAeQAvADIAOQAvACsAMQB5AGYALwAvAC8ALwAvADYAOAAvADIANwAvACsAMQB5AG4ALwAvAC8ALwAvADYAawAvADIANAAvACsAMQB5AHYALwAvAC8ALwAvADYAdgAvADIAMwAvACsAMQB6ADMALwAvAC8ALwAvADcANgAvADIAMAAvACsAMQB6AGoALwAvAC8ALwAvADcAbgAvADEAeQAvACsAMQB6AHoALwAvAC8ALwAvADgAMwAvADEAdgAvACsAMgAwAGYALwAvAC8ALwAvADgAZgAvADEAdAAvACsAMgAxADMALwAvAC8ALwAvADgAcQAvADEAcwAvACsAMgAxAHIALwAvAC8ALwAvADgAdgAvADEAcgAvACIALAAiAEIARAAiADoAIgBAADEAYgAvAEAAMQBjAC8AMQA1ADEAOQA4ADIANwA5ADUANgAiAH0AXQBdAF0APgA8AC8ARAA+ADwALwBFAD4APAAvAEUAdgBlAG4AdABzAD4APABTAFQAUwA+ADEANQAxADkAOAAyADcAOQA1ADcAMQAwADEAPAAvAFMAVABTAD4APAAvAEMAbABpAGUAbgB0AEkAbgBzAHQAUgBlAHEAdQBlAHMAdAA+AA==</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="638fe10d-0948-4b1c-90f1-7cd4a68cf0c6" Version="1.1" Url="https://www2.bing.com/ipv6test/test" ThinkTime="3" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="6d2b6057-b5dc-4fc7-a6ed-0fa5ac493d60" Version="1.1" Url="https://www.bing.com/AS/Suggestions" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam81.cvid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;cvid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="pt" Value="page.serp" RecordedValue="page.serp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bq" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mkt" Value="es-cr" RecordedValue="es-cr" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qry" Value="go" RecordedValue="go" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="css" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="30047f86-d9ae-456c-a20c-b52a45924cbf" Version="1.1" Url="https://www.bing.com/AS/Suggestions" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam112.cvid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;cvid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="pt" Value="page.serp" RecordedValue="page.serp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bq" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mkt" Value="es-cr" RecordedValue="es-cr" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qry" Value="goo" RecordedValue="goo" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam81.cvid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="e689fb37-7da4-44da-a3aa-4177f596a6a6" Version="1.1" Url="https://www.bing.com/AS/Suggestions" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam148.cvid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;cvid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="pt" Value="page.serp" RecordedValue="page.serp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bq" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mkt" Value="es-cr" RecordedValue="es-cr" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qry" Value="goog" RecordedValue="goog" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam112.cvid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="65b50ac9-a956-4b15-ad0d-e57212c6272c" Version="1.1" Url="https://www.bing.com/AS/Suggestions" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam189.cvid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;cvid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="pt" Value="page.serp" RecordedValue="page.serp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bq" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mkt" Value="es-cr" RecordedValue="es-cr" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qry" Value="googl" RecordedValue="googl" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam148.cvid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="2d81f55a-4a06-46d7-9e40-ad88058303b5" Version="1.1" Url="https://www.bing.com/AS/Suggestions" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam232.pq" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;pq=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam233.sc" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;sc=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam234.cvid" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;cvid=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="pt" Value="page.serp" RecordedValue="page.serp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bq" Value="nUEVO" RecordedValue="nUEVO" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="mkt" Value="es-cr" RecordedValue="es-cr" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qry" Value="google" RecordedValue="google" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam189.cvid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="ad788434-06a3-4d8a-b270-bf8493eb82c4" Version="1.1" Url="https://www.bing.com/fd/ls/lsp.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <StringHttpBody ContentType="text/xml" InsertByteOrderMark="False">PABDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA8AEUAdgBlAG4AdABzAD4APABFAD4APABUAD4ARQB2AGUAbgB0AC4AQwBsAGkAZQBuAHQASQBuAHMAdAA8AC8AVAA+ADwASQBHAD4ARABDADcAQgBFADkARgBCADAARgBCAEUANABFADMAOQBBADMARAAyADMAQwA3ADUARQBBADUARgBEAEEAQwBDADwALwBJAEcAPgA8AFQAUwA+ADEANQAxADkAOAAyADcAOQA2ADIAMgAwADEAPAAvAFQAUwA+ADwARAA+ADwAIQBbAEMARABBAFQAQQBbAFsAewAiAFQAIgA6ACIAQwBJAC4AQgBvAHgATQBvAGQAZQBsACIALAAiAEYASQBEACIAOgAiAEMASQAiACwAIgBOAGEAbQBlACIAOgAiAHYAMgAuADgAIgAsACIAUwBWACIAOgAiADQAIgAsACIAUAAiADoAewAiAEMAIgA6ADEANgAsACIATgAiADoAMgAsACIASQAiADoAIgAyAGsAaAAiACwAIgBTACIAOgAiAEMAKwBLACsATQBUACsAVQAiACwAIgBNACIAOgAiAFYAKwBMACsATQArAE0AVAArAEUAKwBOACsAQwArAEsAKwBCAEQAIgAsACIAVAAiADoAOAA1ADgAMAAsACIASwAiADoAIgAyAG8AdQArADUAcAB0ACsANgAxADIAKwBBAFMAJQAyAEYAUwB1AGcAZwBlAHMAdABpAG8AbgBzACsANgA2AG4AKwA2ADkAZQArADYAYwBlACsANgBlAHgAKwA1AHEAMwArAGsAZQB5AGQAbwB3AG4AKwBrAGUAeQBwAHIAZQBzAHMAKwA2ADYAcwArADYAYQBiACsANgBqADcAIgAsACIARgAiADoAMQB9ACwAIgBMACIAOgAiAEAAMQBsAC8AbwAvAEkATgBQAFUAVAAjAHMAYgBfAGYAbwByAG0AXwBxAC8ALwAzAGMALwBqAC8AZAB3AC8AdQAvADQALwBLAC8ALQAxACsANgAxADEALwBwAC8ARABJAFYAIwBhAGoAYQB4AFMAdAB5AGwAZQBzAC8ALwAwAC8AMAAvAHcAOQAvADAALwAxAC8ATQBUAC8ALQAxACsANgA0AHkALwBxAC8AVQBMACMAcwBhAF8AdQBsAC8ALwAyAHMALwAxAGkALwBmAGsALwA2AG8ALwA2AC8ATQBUAC8AMgArADYAbAB5AC8AcQAvAC8ALwAwAC8AMAAvADAALwAwAC8AMAAvAFIALwAiACwAIgBNACIAOgAiAGoAbwArADEAdgAzACsAagB0ACsANgBtADEAKwAxADIAKwAwACsAMAArADEAKwAwACsAaQA2ACsAMQAiACwAIgBOACIAOgAiADIAbwByAC8AdQAvAC8AQAA2AC8AbABzACUAMgBGAGwAcwBwAC4AYQBzAHAAeAAvAEAAMQAxAC8AMwA2AC8AQAA4AC8AQAAxAGQALwAtADEALwBAADEAZAAvADIAcgBvAC8AMgByAHcALwAyAHIAeQArADMANgBwAC8AdgAvAC8AdwB3AHcAMgAuAGIAaQBuAGcALgBjAG8AbQAvAGkAcAB2ADYAdABlAHMAdAAlADIARgB0AGUAcwB0AC8AQABuAC8AOQB1AC8AQAA4AC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8AMwBnAGsAKwA1AHAAcwAvAHcALwAvAEAANgAvAEEAdQB0AG8AUwB1AGcALwBAAG4ALwBhADcALwBAADgALwBAADEAZQAvAC0AMQAvAEAAMQBlAC8ANQBwAHUALwA1AHoAaAAvADUAegB6ACsANgAwAHoALwB4AC8ALwBAADYALwBAADEAZwAvAEAAMQAxAC8AMwBkAC8AQAA4AC8AQAAxAGYALwAtADEALwBAADEAZgAvAEAAMQBmAC8ANgA0AGEALwA2ADQAZAArADYANgBtAC8AeQAvAC8AQAA2AC8AQAAxAGcALwBAADEAMQAvADQAbgAvAEAAOAAvAEAAMQBoAC8ALQAxAC8AQAAxAGgALwBAADEAaAAvADYAYgA4AC8ANgBiADkAKwA2ADkAYwAvAHoALwAvAEAANgAvAEAAMQBnAC8AQAAxADEALwA2AGcALwBAADgALwBAADEAaQAvAC0AMQAvAEAAMQBpAC8AQAAxAGkALwA2AGYAcQAvADYAZgBzACsANgBjAGMALwAxADAALwAvAEAANgAvAEAAMQBnAC8AQAAxADEALwAzAGMALwBAADgALwBAADEAagAvAC0AMQAvAEAAMQBqAC8AQAAxAGoALwA2AGYAbgAvADYAZgBwACsANgBlAHYALwAxADEALwAvAEAANgAvAEAAMQBnAC8AQAAxADEALwAzAHMALwBAADgALwBAADEAawAvAC0AMQAvAEAAMQBrAC8AQAAxAGsALwA2AGkAbgAvADYAaQBvACIALAAiAEMAIgA6ACIANABsADMALwAvAC8ALwAvAC8AMQBwAC8AKwA0AG0AbgAvADIALwAvAC8ALwA4AHAALwAxAGYALwArADQAdAAzAC8AbwAvAC8ALwAvADgAbAAvADEANQAvACsANAB5AGcALwAvAHAAbwBpAG4AdABlAHIAZABvAHcAbgAvAC8AMAAvAC8AegAvADEAKwA1ADAAMAAvAC8AQAAxAGMALwAvAC0AMQAvADgANgAvAHYALwArADUAMABmAC8ALwAvAC8ALwA3AG8ALwBxAC8AKwA1ADAAbgAvAC8ALwAvAC8ANwBjAC8AbgAvACsANQAwAHYALwAvAC8ALwAvADYAeQAvAGsALwArADUAMQA0AC8AMgAvAC8ALwAvADYAbAAvAGkALwArADUAMQBiAC8ALwAvAC8ALwA2ADYALwBnAC8AKwA1ADEAagAvAC8ALwAvAC8ANQBwAC8AZgAvACsANQAxAHIALwAvAC8ALwAvADUAOAAvAC8AKwA1ADEAegAvAC8ALwAvAC8ANABtAC8ALwArADUAMgA3AC8ALwAvAC8ALwA0ADAALwAvACsANQAyAGYALwAvAC8ALwAvADMAaAAvAC8AKwA1ADIAbgAvAC8ALwAvAC8AMgB5AC8ALwArADUAMgB3AC8ALwAvAC8ALwAyAGYALwAvACsANQAzADMALwAvAC8ALwAvADIAMAAvAC8AKwA1ADMAYgAvAC8ALwAvAC8AMQBuAC8ALwArADUAMwBqAC8ALwAvAC8ALwAxAGMALwAvACsANQAzAHoALwAvAC8ALwAvAHkALwAvACsANQA0AGYALwAvAC8ALwAvAG4ALwAvACsANQA1AHIALwAvAC8ALwAvAGQALwBiAC8AKwA1ADcAYgAvAC8AcABvAGkAbgB0AGUAcgB1AHAALwAvADAALwAvADkALwAwACIALAAiAEsAIgA6ACIAQAAxAGwALwBvAC8AQAAxAG0ALwAwACsANQBxADcALwBvAC8AQAAxAG4ALwAwACsANQB5AHoALwBvAC8AQAAxAG0ALwAwACsANQB6ADAALwBvAC8AQAAxAG4ALwAwACsANgA0ADMALwBvAC8AQAAxAG0ALwAwACsANgA0ADQALwBvAC8AQAAxAG4ALwAwACsAQAAxAG8ALwBvAC8AQAAxAG0ALwAwACsAQAAxAG8ALwBvAC8AQAAxAG4ALwAwACsAQAAxAHAALwBvAC8AQAAxAG0ALwAwACsAQAAxAHAALwBvAC8AQAAxAG4ALwAwACsANgBlADMALwBvAC8AQAAxAG0ALwAwACsANgBlADQALwBvAC8AQAAxAG4ALwAwACsAQAAxAHEALwBvAC8AQAAxAG0ALwAwACsAQAAxAHEALwBvAC8AQAAxAG4ALwAwACIAfQBdAF0AXQA+ADwALwBEAD4APAAvAEUAPgA8AC8ARQB2AGUAbgB0AHMAPgA8AFMAVABTAD4AMQA1ADEAOQA4ADIANwA5ADYAMgAyADAAMQA8AC8AUwBUAFMAPgA8AC8AQwBsAGkAZQBuAHQASQBuAHMAdABSAGUAcQB1AGUAcwB0AD4A</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="f9de12ea-8116-4178-9b45-3f7ec64bb268" Version="1.1" Url="https://www.bing.com/search" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam253.IG" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;IG=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam254.Type" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;Type=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="3" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="q" Value="GOOGLE" RecordedValue="GOOGLE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="qs" Value="{{$HIDDEN1.qs}}" RecordedValue="n" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="form" Value="{{$HIDDEN1.form}}" RecordedValue="QBRE" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sp" Value="-1" RecordedValue="-1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="pq" Value="google" RecordedValue="google" CorrelationBinding="{{QueryStringParam232.pq}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sc" Value="8-6" RecordedValue="8-6" CorrelationBinding="{{QueryStringParam233.sc}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sk" Value="{{$HIDDEN1.sk}}" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="cvid" Value="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" RecordedValue="DC7BE9FB0FBE4E39A3D23C75EA5FDACC" CorrelationBinding="{{QueryStringParam234.cvid}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="a3e57a2f-52a2-4692-b1c3-b846d4916165" Version="1.1" Url="https://www.bing.com/fd/ls/l" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="IG" Value="011735760C964CE5AA98DB371A6E67FC" RecordedValue="011735760C964CE5AA98DB371A6E67FC" CorrelationBinding="{{QueryStringParam253.IG}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="Type" Value="Event.CPT" RecordedValue="Event.CPT" CorrelationBinding="{{QueryStringParam254.Type}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="DATA" Value="{%22pp%22:{%22S%22:%22L%22,%22FC%22:18,%22BC%22:18,%22SE%22:-1,%22TC%22:-1,%22H%22:33,%22BP%22:119,%22CT%22:125,%22IL%22:1},%22ad%22:[162,81,1161,782,1161,1558,0]}" RecordedValue="{%22pp%22:{%22S%22:%22L%22,%22FC%22:18,%22BC%22:18,%22SE%22:-1,%22TC%22:-1,%22H%22:33,%22BP%22:119,%22CT%22:125,%22IL%22:1},%22ad%22:[162,81,1161,782,1161,1558,0]}" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="P" Value="SERP" RecordedValue="SERP" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="DA" Value="CH01" RecordedValue="CH01" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="POST" Guid="4c7dd752-8eaa-4579-bf1a-1b5e6364b38d" Version="1.1" Url="https://www.bing.com/fd/ls/lsp.aspx" ThinkTime="2" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+      <StringHttpBody ContentType="text/xml" InsertByteOrderMark="False">PABDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA8AEUAdgBlAG4AdABzAD4APABFAD4APABUAD4ARQB2AGUAbgB0AC4AQwBsAGkAZQBuAHQASQBuAHMAdAA8AC8AVAA+ADwASQBHAD4AMAAxADEANwAzADUANwA2ADAAQwA5ADYANABDAEUANQBBAEEAOQA4AEQAQgAzADcAMQBBADYARQA2ADcARgBDADwALwBJAEcAPgA8AFQAUwA+ADEANQAxADkAOAAyADcAOQA2ADMAMAA4ADEAPAAvAFQAUwA+ADwARAA+ADwAIQBbAEMARABBAFQAQQBbAHsAaQBkADoAMQAyADUAMgAsAFAAOgAiADcAOgAzACwANQA6ADMALAAxADUAOgBuAHoALAAxADQAOgBsAHMALAAxADMAOgBsAHMALAAxADIAOgBsAHMALAAxADEAOgA0AG0ALAA0ADoAMwAsADMAOgAzACwAMgA6ADMALAAxADcAOgBvADQALAAxADYAOgBvADQALAAyADQAOgBtADEALAA4ADoANABtACwAMQAwADoAaQBwACwAOQA6ADQAbQAsADEAOQA6AGkAcQAsADEAOAA6AGkAcQAiACwAUwA6ACIAbgBhAHYAOgAwACIALAB2ADoAMQAuADEALABUADoAIgBDAEkALgBQAGUAcgBmACIALABGAEkARAA6ACIAQwBJACIALABOAGEAbQBlADoAIgBQAGUAcgBmAFYAMgAiAH0AXQBdAD4APAAvAEQAPgA8AC8ARQA+ADwALwBFAHYAZQBuAHQAcwA+ADwAUwBUAFMAPgAxADUAMQA5ADgAMgA3ADkANgAzADAAOAAxADwALwBTAFQAUwA+ADwALwBDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA=</StringHttpBody>
+    </Request>
+    <Request Method="POST" Guid="9dd34997-d798-4245-99c8-0e29ccdd350d" Version="1.1" Url="https://www.bing.com/fd/ls/lsp.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <StringHttpBody ContentType="text/xml" InsertByteOrderMark="False">PABDAGwAaQBlAG4AdABJAG4AcwB0AFIAZQBxAHUAZQBzAHQAPgA8AEUAdgBlAG4AdABzAD4APABFAD4APABUAD4ARQB2AGUAbgB0AC4AQwBsAGkAZQBuAHQASQBuAHMAdAA8AC8AVAA+ADwASQBHAD4AMAAxADEANwAzADUANwA2ADAAQwA5ADYANABDAEUANQBBAEEAOQA4AEQAQgAzADcAMQBBADYARQA2ADcARgBDADwALwBJAEcAPgA8AFQAUwA+ADEANQAxADkAOAAyADcAOQA2ADUAMAA4ADgAPAAvAFQAUwA+ADwARAA+ADwAIQBbAEMARABBAFQAQQBbAFsAewAiAFQAIgA6ACIAQwBJAC4AQgBvAHgATQBvAGQAZQBsACIALAAiAEYASQBEACIAOgAiAEMASQAiACwAIgBOAGEAbQBlACIAOgAiAHYAMgAuADgAIgAsACIAUwBWACIAOgAiADQAIgAsACIAUAAiADoAewAiAEMAIgA6ADIAMgAsACIATgAiADoAMQAsACIASQAiADoAIgB0ADcAIgAsACIAUwAiADoAIgBUACsAQwArAEIARAArAFUAIgAsACIATQAiADoAIgBWACsATAArAE0AKwBNAFQAKwBFACsATgArAEMAKwBLACsAQgBEACIALAAiAFQAIgA6ADIAOAA3ADcALAAiAEsAIgA6ACIAUwBQAEEATgAuAGYAdAByAEIAKwBMAEkALgBiAF8AYQBsAGcAbwArAEwASQAuAGIAXwBhAG4AcwArADEANwBhACsAUwBFAFIAUAAsADUAMwAxADcALgAxACwAQQBkAHMAKwBMAEkALgBiAF8AYQBkAEwAYQBzAHQAQwBoAGkAbABkACsAUwBFAFIAUAAsADUAMwAxADkALgAxACwAQQBkAHMAKwBpAG0AZwArAGgAdAB0AHAAcwArAHcAdwB3AC4AYgBpAG4AZwAuAGMAbwBtACsARgByAGEAbQBlAHcAbwByAGsAKwBzAGMAcgBpAHAAdAArAEkAZABlAG4AdABpAHQAeQAlADIANQAyADAAQgBsAHUAZQAlADIANABCAGwAdQBlAEkAZABlAG4AdABpAHQAeQBEAHIAbwBwAGQAbwB3AG4AQgBvAG8AdABTAHQAcgBhAHAAXwBSAGUAZABpAHIAZQBjAHQAKwBJAGQAZQBuAHQAaQB0AHkAJQAyADUAMgAwAEIAbAB1AGUAJQAyADQAQgBsAHUAZQBJAGQAZQBuAHQAaQB0AHkASABlAGEAZABlAHIAKwBMAGEAbgBnAHUAYQBnAGUAUwB3AGkAdABjAGgAKwBTAGUAZwBtAGUAbgB0AEYAaQBsAHQAZQByAHMAJQAyADUAMgAwAEIAbAB1AGUAJQAyADQARwBlAG4AZQByAGkAYwBEAHIAbwBwAEQAbwB3AG4ATQBvAGQAZQByAG4AQwBhAGwAZQBuAGQAYQByACsAVwBlAGIAUgBlAHMAdQBsAHQAJQAyADUAMgAwAEIAbAB1AGUAJQAyADQAVwBlAGIAUgBlAHMAdQBsAHQAVABvAG8AbABiAG8AeABCAGwAdQBlACsAVwBlAGIAJQAyADUAMgAwAFMAZQByAHAASwBlAHkAYgBvAGEAcgBkAE4AYQB2AGkAZwBhAHQAaQBvAG4AXwBTAGUAbABlAGMAdABvAHIASABlAGEAZABlAHIAUABsAHUAcwBBAGwAZwBvACsAVwBlAGIAJQAyADUAMgAwAFMAZQByAHAASwBlAHkAYgBvAGEAcgBkAE4AYQB2AGkAZwBhAHQAaQBvAG4AKwAyADUAdAArADIANwBpACsAcABvAGkAbgB0AGUAcgBtAG8AdgBlACIALAAiAEYAIgA6ADEAfQAsACIAVgAiADoAIgBsAGEALwAwAC8AMAAvAHcAcQAvAGwAcQAvAHcAOQAvADMAYgAvADEALwBkAC8AdgBpAHMAaQBiAGwAZQAvAGQAZQBmAGEAdQBsAHQAKwBsAG8ALwAvAC8ALwAvAC8AQAAzAC8ALwAvAC8AIgAsACIATAAiADoAIgBsAGIALwAwAC8ATgBBAFYALgBiAF8AcwBjAG8AcABlAGIAYQByAC8AUwBFAFIAUAAsADUAMAAxADYALgAxAC8AMgBzAC8AMgA3AC8AdABoAC8AMQAzAC8AMgAvAFQALwAtADEAKwBsAGIALwAxAC8ASAAxAC4AYgBfAGwAbwBnAG8ALwAvADEAbQAvAGcALwBzAC8AMQAwAC8ANAAvAFQALwAtADEAKwBsAGIALwAyAC8ARABJAFYALgBiAF8AcwBlAGEAcgBjAGgAYgBvAHgARgBvAHIAbQAvAC8AMgBzAC8AZQAvAGYAawAvADEANAAvADMALwBUAC8ALQAxACsAbABiAC8AMwAvAEQASQBWACMAaQBkAF8AaAAvAFMARQBSAFAALAA1ADAAMgAxAC4AMQAvADAALwAwAC8AMAAvADAALwAyAC8AVAAvADIAKwBsAHEALwA0AC8AUwBQAEEATgAuAHMAYgBfAGMAbwB1AG4AdAAvAC8AMwBjAC8AMwBvAC8AMwBrAC8AdQAvADMALwBUAC8ALQAxACsAbABxAC8ANQAvAEAAMAAvAFMARQBSAFAALAA1ADIANAA3AC4AMQAvADYAdwAvADMAbwAvADIAcQAvAHUALwAzAC8AVAAvAC0AMQArAGwAcQAvADYALwBAADAALwBTAEUAUgBQACwANQAyADUANQAuADEALwA5AG4ALwAzAG8ALwAzAGkALwB1AC8AMwAvAFQALwAtADEAKwBsAHEALwA3AC8AQAAwAC8AUwBFAFIAUAAsADUAMgA1ADkALgAxAC8AZAA1AC8AMwBvAC8AMgBlAC8AdQAvADMALwBUAC8ALQAxACsAbABxAC8AOAAvAEwASQAuAGIAXwBhAGQALwBAADQALwAyAHMALwA0AGkALwBmAGsALwAyADkALwAzAC8AVAAvAC0AMQArAGwAcQAvADkALwBAADEALwBTAEUAUgBQACwANQAwADkANgAuADEALwAyAHMALwA2AHIALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAGwAcQAvAGEALwBAADEALwBTAEUAUgBQACwANQAxADAANwAuADEALwAyAHMALwA5ADEALwBmAGsALwAyAHQALwAzAC8AVAAvAC0AMQArAGwAcQAvAGIALwBAADEALwBTAEUAUgBQACwANQAxADEANwAuADEALwAyAHMALwBiAHcALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAGwAcQAvAGMALwBAADEALwBTAEUAUgBQACwANQAxADMAMAAuADEALwAyAHMALwBlADYALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAGwAcQAvAGQALwBAADEALwBTAEUAUgBQACwANQAxADQAMwAuADEALwAyAHMALwBnAHgALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAGwAcQAvAGUALwBAADEALwBTAEUAUgBQACwANQAxADUAOAAuADEALwAyAHMALwBqADcALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAGwAcQAvAGYALwBAADEALwBTAEUAUgBQACwANQAxADcAMQAuADEALwAyAHMALwBsAHkALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAGwAcQAvAGcALwBAADEALwBTAEUAUgBQACwANQAxADgAMwAuADEALwAyAHMALwBvAHAALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAGwAcQAvAGgALwBAADEALwBTAEUAUgBQACwANQAxADkANQAuADEALwAyAHMALwByAGcALwBmAGsALwAyADgALwAzAC8AVAAvAC0AMQArAGwAcQAvAGkALwBAADEALwBTAEUAUgBQACwANQAyADAAOAAuADEALwAyAHMALwB0AHEALwBmAGsALwAyAHAALwAzAC8AVAAvAC0AMQArAGwAcQAvAGoALwBMAEkALgBiAF8AYQBkACAAYgBfAGEAZABCAG8AdAB0AG8AbQAvAEAANgAvADIAcwAvAHcAaAAvAGYAawAvADIAYQAvADMALwBUAC8ALQAxACsAbABxAC8AawAvAEAAMgAvAFMARQBSAFAALAA1ADIAOQA4AC4AMQAvADIAcwAvAHkAcgAvAGYAawAvADUANQAvADMALwBUAC8ALQAxACsAbABxAC8AbAAvAEwASQAuAGIAXwBwAGEAZwAvAFMARQBSAFAALAA1ADMAMwAzAC4AMQAvADIAcwAvADEAMwB5AC8AZgBrAC8AMgBxAC8AMwAvAFQALwAtADEAKwBsAHEALwBtAC8AQAAyAC8AUwBFAFIAUAAsADUAMwAyADMALgAxAC8AagBnAC8ANABpAC8AYQBvAC8ANQBsAC8AMwAvAFQALwAtADEAKwBsAHEALwBuAC8ARgBPAE8AVABFAFIAIwBiAF8AZgBvAG8AdABlAHIALwBTAEUAUgBQACwANQAwADMANAAuADEALwAwAC8AQAAzAC8AdwA5AC8AMQBjAC8AMQAvAFQALwAtADEAKwBsAGIALwBvAC8ASQBNAEcALwAvADEAbQAvAGcALwBqAGIALwAxAHEALwA1AC8AVAAvAC0AMQArAGwAcQAvAHAALwBAADUALwBAADQALwAzAGMALwA0AHMALwBlAGcALwAxAHEALwA1AC8AVAAvAC0AMQArAGwAcQAvAHEALwBAADUALwBAADYALwAzAGMALwB3AHQALwBlAGcALwAxAHEALwA1AC8AVAAvAC0AMQArADIANwByAC8AMwAvAC8ALwByADAALwBhAC8ANAA1AC8AMQBlAC8ALwBSAC8AIgAsACIATQAiADoAIgBpAHEAKwB6AHAAKwBtADEAKwAyADcAdAArAG4AKwAwACsAMAArADAAKwAwACsAYgBiACsAMQAiACwAIgBOACIAOgAiAC0AMQAvADAALwAvAC8AZABvAGMAdQBtAGUAbgB0AC8ALwBvADQALwAvADMALwAtADEALwAzAC8ANABtAC8ANABtAC8AaQBwACsAaQBxAC8AMQAvAG8ALwBAADkALwBzAGkAbQBnACUAMgBGAFMAaABhAHIAZQBkAFMAcAByAGkAdABlAEQAZQBzAGsAdABvAHAAVAB3AG8AVABvAG4AZQBMAG8AZwBvAFQAZQBhAGwAUwBwAHkAXwAwADgAMQA3AC4AcABuAGcALwBAADcALwAwAC8AQAA4AC8AaQBxAC8ALQAxAC8AaQBxAC8AaQBxAC8AaQBxAC8AaQBxACsAaQBxAC8AMgAvAC8AcwB0AG8AcgBhAGcAZQAuAGwAaQB2AGUALgBjAG8AbQAvAHAAcgBvAGYAaQBsAGUAcABoAG8AdABvACUAMwBBAFUAcwBlAHIAVABpAGwAZQBTAHQAYQB0AGkAYwAlADIARgBwAC8AQAA3AC8ANABwAC8AQAA4AC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8ALQAxAC8AbgBnACsAbwBhAC8AMwAvAC8AQAA5AC8AYwBwAHQALwBAADcALwAxAHAALwBAADgALwBvAGIALwAtADEALwBvAGIALwBvAGIALwAtADEALwBxADAAKwBvAGMALwA0AC8ALwBAADkALwBsAHMAJQAyAEYAbABzAHAALgBhAHMAcAB4AC8AeABtAGwAaAB0AHQAcAByAGUAcQB1AGUAcwB0AC8AMwBmAC8AQAA4AC8AbwBoAC8ALQAxAC8AbwBoAC8AcgBhAC8AcgBxAC8AcgByACsAbwBlAC8ANQAvAC8AQAA5AC8AQgBpAG4AZwBDAG8AcgBlAC4AQgB1AG4AZABsAGUALwBAAGIALwAxAC8AQAA4AC8AbwBnAC8ALQAxAC8AbwBnAC8AbwBnAC8AbwBnAC8AbwBnACsAcwAzAC8ANgAvAC8AQAA5AC8AQABhAC8AQAA3AC8AMwAvAEAAOAAvAHMANgAvAC0AMQAvAHMANgAvAHMANgAvAHMANgAvAHMANgArAHMANwAvADcALwAvAEAAOQAvAEAAYwAvAEAANwAvADIALwBAADgALwBzAGEALwAtADEALwBzAGEALwBzAGEALwBzAGEALwBzAGEAKwBzAGIALwA4AC8ALwBAADkALwBAAGQALwBAADcALwAzAC8AQAA4AC8AcwBlAC8ALQAxAC8AcwBlAC8AcwBlAC8AcwBlAC8AcwBlACsAcwBnAC8AOQAvAC8AQAA5AC8AQABlAC8AQAA3AC8ANQAvAEAAOAAvAHMAagAvAC0AMQAvAHMAagAvAHMAagAvAHMAagAvAHMAbQArAHMAbgAvAGEALwAvAEAAOQAvAEAAZgAvAEAANwAvADMALwBAADgALwBzAHEALwAtADEALwBzAHEALwBzAHEALwBzAHEALwBzAHEAKwBzAHIALwBiAC8ALwBAADkALwBAAGcALwBAADcALwAyAC8AQAA4AC8AcwB0AC8ALQAxAC8AcwB0AC8AcwB0AC8AcwB0AC8AcwB0ACsAcwB1AC8AYwAvAC8AQAA5AC8AQABoAC8AQAA3AC8AMgAvAEAAOAAvAHMAdwAvAC0AMQAvAHMAdwAvAHMAdwAvAHMAdwAvAHMAdwArAHMAeAAvAGQALwAvAEAAOQAvAEAAaQAvAEAANwAvADEALwBAADgALwBzAHoALwAtADEALwBzAHoALwBzAHoALwBzAHoALwBzAHoAKwB0ADAALwBlAC8ALwBAADkALwBAAGEALwBAAGIALwAxAC8AQAA4AC8AdAAxAC8ALQAxAC8AdAAxAC8AdAAxAC8AdAAxAC8AdAAyACsAdABpAC8AZgAvAC8AQAA5AC8AQABjAC8AQABiAC8AMQAvAEAAOAAvAHQAawAvAC0AMQAvAHQAawAvAHQAawAvAHQAawAvAHQAawArAHQAbQAvAGcALwAvAEAAOQAvAEAAZAAvAEAAYgAvADEALwBAADgALwB0AG4ALwAtADEALwB0AG4ALwB0AG4ALwB0AG4ALwB0AG8AKwB0AHAALwBoAC8ALwBAADkALwBAAGUALwBAAGIALwAxAC8AQAA4AC8AdAByAC8ALQAxAC8AdAByAC8AdAByAC8AdAByAC8AdAByACsAdAB3AC8AaQAvAC8AQAA5AC8AQABmAC8AQABiAC8AMQAvAEAAOAAvAHQAeAAvAC0AMQAvAHQAeAAvAHQAeAAvAHQAeAAvAHQAeQArAHUAMwAvAGoALwAvAEAAOQAvAEAAZwAvAEAAYgAvADEALwBAADgALwB1ADUALwAtADEALwB1ADUALwB1ADUALwB1ADUALwB1ADUAKwB1AGkALwBrAC8ALwBAADkALwBAAGgALwBAAGIALwAxAC8AQAA4AC8AdQBrAC8ALQAxAC8AdQBrAC8AdQBrAC8AdQBrAC8AdQBrACsAdQBvAC8AbAAvAC8AQAA5AC8AQABpAC8AQABiAC8AMQAvAEAAOAAvAHUAcQAvAC0AMQAvAHUAcQAvAHUAcQAvAHUAcQAvAHUAcQArADIANQByAC8AbQAvAC8AQAA5AC8AbABzACUAMgBGAEcATABpAG4AawBQAGkAbgBnAC4AYQBzAHAAeAAvAEAANwAvADEAdAAvAEAAOAAvAEAAagAvAC0AMQAvAEAAagAvAEAAagAvAEAAawAvADIANwBsACIALAAiAEMAIgA6ACIAegBwAC8ALwBAAGwALwBtAG8AdQBzAGUALwAtADEALwAwAC8ANABnAC8AMAArAHoAeAAvAC8ALwAvAC8AZwAvADQAbAAvACsAMQAwADUALwAvAC8ALwAvADEANQAvADQAcgAvACsAMQAwAGQALwAvAC8ALwAvADEAbwAvADQAdwAvACsAMQAwAGwALwAvAC8ALwAvADIANgAvADUAMAAvACsAMQAwAHQALwA4AC8ALwAvAC8AMgB0AC8ANQBiAC8AKwAxADEAMQAvAC8ALwAvAC8AMwA4AC8ANQBoAC8AKwAxADEAOQAvAHAALwAvAC8ALwAzAGoALwA1AG0ALwArADEAMQBoAC8ALwAvAC8ALwAzAHQALwA1AHMALwArADEAMQBwAC8ALwAvAC8ALwA0ADMALwA1AHoALwArADEAMgA1AC8ALwAvAC8ALwA0AGUALwA2ADgALwArADEAMgB0AC8AOAAvAC8ALwAvADQAbAAvADYAaQAvACsAMQAzAHgALwA5AC8ALwAvAC8ALwA2AHQALwArADEANABsAC8ALwAvAC8ALwA0AGoALwA3ADMALwArADEANQA5AC8ALwAvAC8ALwA0AGYALwA3AGYALwArADEANgB0AC8ALwAvAC8ALwA0ADYALwA3AG8ALwArADEANwBwAC8ALwAvAC8ALwAzAHgALwA3AHUALwArADEAOABsAC8ALwAvAC8ALwAzAHQALwA4ADUALwArADEAYwBkAC8ALwAvAC8ALwAzAHkALwA3AHcALwArADEAaQBsAC8ALwAvAC8ALwA0ADIALwA4AGQALwArADEAaQB0AC8ALwAvAC8ALwA0ADUALwA4AG4ALwArADEAagAxAC8ALwAvAC8ALwA0ADkALwA5ADAALwArADEAagBpAC8AYQAvAC8ALwAvADQAZQAvADkAbAAvACsAMQBqAHMALwAvAC8ALwAvADQAagAvADkAdwAvACsAMQBrADEALwAvAC8ALwAvADQAbgAvAGEANgAvACsAMQBrADUALwAvAC8ALwAvADQAcAAvAGEAZwAvACsAMQBrAGwALwAvAC8ALwAvADQAdQAvAGEAcgAvACsAMQBwAGEALwAvAC8ALwAvADQAcgAvAGEAZwAvACsAMQBxAGQALwAvAC8ALwAvADQAawAvAGEANwAvACsAMQB2ADEALwAvAC8ALwAvADQAZAAvADkAegAvACsAMgA1AHEALwAvAHAAbwBpAG4AdABlAHIAZABvAHcAbgAvAC8AMAAvAC8AOQB4AC8AMQArADIANwBoAC8ALwBwAG8AaQBuAHQAZQByAHUAcAAvAC8ALwAvAC8AMAArAEAAawAvAC8AYwBsAGkAYwBrAC8ALwAvAC8ALwAiACwAIgBCAEQAIgA6ACIAegBwAC8AQABsAC8AMQA1ADEAOQA4ADIANwA5ADYAMwAiAH0AXQBdAF0APgA8AC8ARAA+ADwALwBFAD4APAAvAEUAdgBlAG4AdABzAD4APABTAFQAUwA+ADEANQAxADkAOAAyADcAOQA2ADUAMAA4ADgAPAAvAFMAVABTAD4APAAvAEMAbABpAGUAbgB0AEkAbgBzAHQAUgBlAHEAdQBlAHMAdAA+AA==</StringHttpBody>
+    </Request>
+    <Request Method="GET" Guid="e65c956e-10dd-4aa5-a980-0d53d72384e7" Version="1.1" Url="http://www.google.com/intl/jw/" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://www.google.com/?hl=jw&amp;gws_rd=ssl" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="e81fb53c-0064-47f6-9c6c-31eae45002c9" Version="1.1" Url="https://www.google.com/gen_204" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="s" Value="webaft" RecordedValue="webaft" CorrelationBinding="{{QueryStringParam288.s}}" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="atyp" Value="{{QueryStringParam289.atyp}}" RecordedValue="csi" CorrelationBinding="{{QueryStringParam289.atyp}}" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="ei" Value="{{$HIDDEN1.ei}}" RecordedValue="abyWWoq6LMmn5gKR7o_QDg" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+            <QueryStringParameter Name="rt" Value="wsrt.753,aft.336,prt.336" RecordedValue="wsrt.753,aft.336,prt.336" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+      <Headers>
+        <Header Name="Referer" Value="https://www.bing.com/" />
+      </Headers>
+      <ExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractHiddenFields, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="1" DisplayName="Extract Hidden Fields" Description="Extract all hidden fields from the response and place them into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="Required" Value="True" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam289.atyp" DisplayName="Extract Text" Description="Extract text from the response and place it into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;atyp=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam318.atyp" DisplayName="Extract Text" Description="Extract text from the response and place it into the test context.">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;atyp=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </ExtractionRules>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam288.s" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?s=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+    </Request>
+    <Request Method="GET" Guid="bc4a4374-0c1b-40dd-91a4-a2ec4279c732" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.lyr4rn8yglg.O/m=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/rt=j/d=1/t=zcms/rs=ACT90oE9xg5JXNopcAZtZPV-ufIRZ3jPZA" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="493fca01-2d0d-4033-a81a-1a6245386547" Version="1.1" Url="https://www.gstatic.com/og/_/js/k=og.og2.en_US.PhjXuBK65wA.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTvynzQW2hx1c545H7wM3PtueoFk7Q" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="9a9bb918-6851-45fc-a391-b88cbbb8cd09" Version="1.1" Url="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.81qcNVAdPP0.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=AAE/rs=AHpOoo-rnjHqcvRAlxtG-9gMfTrV90boIA/cb=gapi.loaded_0" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="fa23302f-3411-430e-9724-fdb4b81c1d58" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.zlbS1JZBH0k.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,mu,sf,sonic,d3l,WgDvvc/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oHKFlkvRuECYYNZZ5H6gPwKOnB24g" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="xjs" Value="s1" RecordedValue="s1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="00849ea0-4550-4e37-b780-dbcd2c51609b" Version="1.1" Url="https://www.google.com/gen_204" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="atyp" Value="{{QueryStringParam318.atyp}}" RecordedValue="csi" CorrelationBinding="{{QueryStringParam318.atyp}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ei" Value="{{$HIDDEN1.ei}}" RecordedValue="abyWWoq6LMmn5gKR7o_QDg" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="s" Value="webhp" RecordedValue="webhp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imc" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imn" Value="2" RecordedValue="2" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="adh" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ima" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ime" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rt" Value="aft.336,dcl.342,iml.336,ol.377,prt.336,xjs.1108,xjsee.1108,xjses.979,xjsls.471,wsrt.753,cst.0,dnst.0,rqst.101,rspt.100,rqstt.703,unt.703,cstt.703,dit.1095" RecordedValue="aft.336,dcl.342,iml.336,ol.377,prt.336,xjs.1108,xjsee.1108,xjses.979,xjsls.471,wsrt.753,cst.0,dnst.0,rqst.101,rspt.100,rqstt.703,unt.703,cstt.703,dit.1095" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="zx" Value="1519827966955" RecordedValue="1519827966955" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="80c2d9a5-739b-4c9f-b2b9-76f9a21a6a7c" Version="1.1" Url="https://adservice.google.com/adsid/google/ui" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="12370f49-738f-478d-9919-e5159cb3032c" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.zlbS1JZBH0k.O/m=RMhBfe/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi,aa,abd,async,dvl,foot,fpe,ipv6,lu,m,mu,sf,sonic,d3l,WgDvvc/rt=j/d=1/ed=1/t=zcms/rs=ACT90oHKFlkvRuECYYNZZ5H6gPwKOnB24g" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="8a773255-e838-4178-a1a4-5744dcd3d829" Version="1.1" Url="https://www.google.co.cr/domainless/read" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="igu" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="8de8cd57-394b-407e-a555-b473aba9ad1d" Version="1.1" Url="https://www.google.com/domainless/write" ThinkTime="8" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="igu" Value="1" RecordedValue="1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="data" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="xsrf" Value="ALAmJdF_5HhIlEd2gZ3FZRyNX5RNvPmfDg:1519828073755" RecordedValue="ALAmJdF_5HhIlEd2gZ3FZRyNX5RNvPmfDg:1519828073755" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="c95fa96d-c1f7-46f1-b1a3-5bf0795da5ee" Version="1.1" Url="https://www.google.com/search" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/?hl=jw&amp;gws_rd=ssl" />
+      </Headers>
+      <CorrelationExtractionRules>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam515.s" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?s=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam516.atyp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;atyp=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam517.ei" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;ei=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam544.atyp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?atyp=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam547.ei" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;ei=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam572.atyp" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;atyp=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam573.ei" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="&amp;amp;ei=" />
+            <RuleParameter Name="EndsWith" Value="&amp;" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+        <ExtractionRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ExtractText, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" VariableName="QueryStringParam574.s" DisplayName="" Description="">
+          <RuleParameters>
+            <RuleParameter Name="StartsWith" Value="?s=" />
+            <RuleParameter Name="EndsWith" Value="a" />
+            <RuleParameter Name="Index" Value="0" />
+            <RuleParameter Name="IgnoreCase" Value="False" />
+            <RuleParameter Name="UseRegularExpression" Value="False" />
+            <RuleParameter Name="HtmlDecode" Value="True" />
+            <RuleParameter Name="Required" Value="False" />
+          </RuleParameters>
+        </ExtractionRule>
+      </CorrelationExtractionRules>
+      <QueryStringParameters>
+        <QueryStringParameter Name="hl" Value="{{$HIDDEN1.hl}}" RecordedValue="jw" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="source" Value="{{$HIDDEN1.source}}" RecordedValue="hp" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ei" Value="{{$HIDDEN1.ei}}" RecordedValue="abyWWoq6LMmn5gKR7o_QDg" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="q" Value="Busqueda" RecordedValue="Busqueda" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="oq" Value="Busqueda" RecordedValue="Busqueda" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="gs_l" Value="psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" RecordedValue="psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="33516564-0ba5-4210-98ca-6ac57e74112b" Version="1.1" Url="https://www.google.com/gen_204" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="s" Value="webaft" RecordedValue="webaft" CorrelationBinding="{{QueryStringParam515.s}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="atyp" Value="csi" RecordedValue="csi" CorrelationBinding="{{QueryStringParam516.atyp}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ei" Value="c7yWWteGI6bv5gKesYe4CA" RecordedValue="c7yWWteGI6bv5gKesYe4CA" CorrelationBinding="{{QueryStringParam517.ei}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rt" Value="wsrt.275,aft.364,prt.364,sct.302" RecordedValue="wsrt.275,aft.364,prt.364,sct.302" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="5fd29085-90ed-4be6-b7b7-40b8f4f5050c" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.lyr4rn8yglg.O/m=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/rt=j/d=1/t=zcms/rs=ACT90oE9xg5JXNopcAZtZPV-ufIRZ3jPZA" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="9c680974-5592-4881-b333-c6c7a715b484" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.zlbS1JZBH0k.O/m=aa,abd,async,dvl,foot,fpe,ipv6,lu,m,mu,sf,sonic,tl,vs,d3l,tnv,mrn,me,atn,WgDvvc/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi/rt=j/d=1/ed=1/t=zcms/rs=ACT90oHKFlkvRuECYYNZZ5H6gPwKOnB24g" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="xjs" Value="s1" RecordedValue="s1" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="586f4a85-c03b-4b41-a197-6f1f8830c63e" Version="1.1" Url="https://www.google.com/client_204" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="atyp" Value="i" RecordedValue="i" CorrelationBinding="{{QueryStringParam544.atyp}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="biw" Value="1178" RecordedValue="1178" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="bih" Value="782" RecordedValue="782" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ei" Value="c7yWWteGI6bv5gKesYe4CA" RecordedValue="c7yWWteGI6bv5gKesYe4CA" CorrelationBinding="{{QueryStringParam547.ei}}" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="fb577174-8f76-476b-989d-98bb652fb433" Version="1.1" Url="https://www.google.com/gen_204" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="atyp" Value="csi" RecordedValue="csi" CorrelationBinding="{{QueryStringParam572.atyp}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="ei" Value="c7yWWteGI6bv5gKesYe4CA" RecordedValue="c7yWWteGI6bv5gKesYe4CA" CorrelationBinding="{{QueryStringParam573.ei}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="s" Value="web" RecordedValue="web" CorrelationBinding="{{QueryStringParam574.s}}" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imc" Value="7" RecordedValue="7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imn" Value="7" RecordedValue="7" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="imp" Value="0" RecordedValue="0" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="adh" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rt" Value="aft.364,dcl.401,iml.364,ol.461,prt.364,xjs.689,xjsee.689,xjses.586,xjsls.512,sct.302,wsrt.275,cst.0,dnst.0,rqst.471,rspt.470,rqstt.167,unt.2,cstt.2,dit.676" RecordedValue="aft.364,dcl.401,iml.364,ol.461,prt.364,xjs.689,xjsee.689,xjses.586,xjsls.512,sct.302,wsrt.275,cst.0,dnst.0,rqst.471,rspt.470,rqstt.167,unt.2,cstt.2,dit.676" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="zx" Value="1519827976490" RecordedValue="1519827976490" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="3876f29f-3557-417d-8c90-fe411fd58b74" Version="1.1" Url="https://www.gstatic.com/og/_/js/k=og.og2.en_US.PhjXuBK65wA.O/rt=j/m=def/exm=in,fot/d=1/ed=1/rs=AA2YrTvynzQW2hx1c545H7wM3PtueoFk7Q" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="b02e53f3-aed4-42b2-955e-950be12184de" Version="1.1" Url="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.81qcNVAdPP0.O/m=gapi_iframes,googleapis_client,plusone/rt=j/sv=1/d=1/ed=1/am=AAE/rs=AHpOoo-rnjHqcvRAlxtG-9gMfTrV90boIA/cb=gapi.loaded_0" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="f02aedbb-9da7-42ab-b379-da3350d31d66" Version="1.1" Url="https://adservice.google.com/adsid/google/ui" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="ddefc933-0d5c-4698-8cae-c7263bfe22c3" Version="1.1" Url="https://www.google.com/xjs/_/js/k=xjs.s.en.zlbS1JZBH0k.O/m=RMhBfe/am=wCLkdEEAyP8JgogEKwgsQIpgGBA/exm=sx,sb,cdos,cr,elog,hsm,jsa,r,d,csi,aa,abd,async,dvl,foot,fpe,ipv6,lu,m,mu,sf,sonic,tl,vs,d3l,tnv,mrn,me,atn,WgDvvc/rt=j/d=1/ed=1/t=zcms/rs=ACT90oHKFlkvRuECYYNZZ5H6gPwKOnB24g" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.google.com/search?hl=jw&amp;source=hp&amp;ei=abyWWoq6LMmn5gKR7o_QDg&amp;q=Busqueda&amp;oq=Busqueda&amp;gs_l=psy-ab.3...1406.7149.0.8566.0.0.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..0.0.0....0.swaUHzo-oTc" />
+      </Headers>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>

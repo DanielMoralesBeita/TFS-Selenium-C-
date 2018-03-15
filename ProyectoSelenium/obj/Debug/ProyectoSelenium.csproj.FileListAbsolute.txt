@@ -1,0 +1,13 @@
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\ProyectoSelenium.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\ProyectoSelenium.pdb
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\nunit.framework.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\WebDriver.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\WebDriver.Support.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\nunit.framework.xml
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\WebDriver.xml
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\WebDriver.Support.xml
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\obj\Debug\ProyectoSelenium.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\obj\Debug\ProyectoSelenium.dll
+E:\Users\dmorales\Downloads\Agente\agente\LocalMachine\2\s\CodedUITestProject2\ProyectoSelenium\obj\Debug\ProyectoSelenium.pdb

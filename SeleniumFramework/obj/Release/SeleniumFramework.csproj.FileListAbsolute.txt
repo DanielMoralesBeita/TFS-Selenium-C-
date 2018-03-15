@@ -1,0 +1,15 @@
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\SeleniumFramework.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\SeleniumFramework.pdb
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\nunit.framework.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\Selenium.WebDriverBackedSelenium.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\WebDriver.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\WebDriver.Support.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\nunit.framework.xml
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\Selenium.WebDriverBackedSelenium.xml
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\WebDriver.xml
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\WebDriver.Support.xml
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\obj\Release\SeleniumFramework.csprojResolveAssemblyReference.cache
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\obj\Release\SeleniumFramework.dll
+E:\Users\dmorales\Desktop\TFS\NOVACOMP_TESTING\CodedUITestProject1\SeleniumFramework\obj\Release\SeleniumFramework.pdb
